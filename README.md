@@ -1,10 +1,10 @@
 ---
-title: BlueArchiveTTS
-emoji: 📉
-colorFrom: purple
+title: BarKeYaeTTS
+emoji: ✨
+colorFrom: blue
 colorTo: gray
 sdk: gradio
-sdk_version: 3.27.0
+sdk_version: 3.12.0
 app_file: app.py
 pinned: false
 license: mit
